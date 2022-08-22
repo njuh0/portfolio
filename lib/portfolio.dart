@@ -43,7 +43,7 @@ class _PortFolioState extends State<PortFolio> with AnimationMixin {
 
   @override
   Widget build(BuildContext context) {
-    print(MediaQuery.of(context).size.width);
+    // print(MediaQuery.of(context).size.width);
     if (MediaQuery.of(context).size.width <= 800) {
       leftPadding = 0;
     } else {
