@@ -117,7 +117,7 @@ class _SuccessFactorsState extends State<SuccessFactors> {
                     ),
                   ),
                   Text(
-                    'I was inspired to create that after reading another book about self-development. It would seem that this is an ordinary application about goals. But the whole point of the application is to estimate the probability of success of the goal and analyze the result.',
+                    'It would seem that this is an ordinary application about goals. But the whole point of the application is to estimate the probability of success of the goal according to own completed tasks and analyze the result.',
                     style: GoogleFonts.encodeSans(
                       textStyle: const TextStyle(
                         color: text1,

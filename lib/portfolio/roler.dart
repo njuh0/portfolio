@@ -119,7 +119,7 @@ class _RolerState extends State<Roler> {
                     ),
                   ),
                   Text(
-                    'Collection of role-play stories. Fantastic character description generator. Search for role-play players.',
+                    'Collection of role-play stories. Fantasty character description generator. Search for role-play players.',
                     style: GoogleFonts.encodeSans(
                       textStyle: const TextStyle(
                         color: text1,
